@@ -1,0 +1,94 @@
+li{
+    list-style: none;
+}
+nav{
+    background-color: aqua;
+}
+.menu{
+    font-size: 20px;
+}
+.menu:hover{
+    color: white;
+    cursor: pointer;
+}
+.banner{
+    width: 1200px;
+    height: 500px;
+}
+.banner-container{
+    background: linear-gradient(rgb(141, 247, 247), rgb(121, 166, 166));
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 10px;
+    height: 400px;
+}
+.bn-img{
+    margin-top: -50px;
+    height: 450px;
+    width: 300px;
+}
+.service-container{
+    width: 1000px;
+}
+.srvc-title{
+    color: aqua;
+    font-size: 36px;
+}
+.doc-img{
+    border-radius: 50%;
+    height: 150px;
+    width: 50%;
+}
+.doc-search{
+    width: 50%;
+    border: none;
+    border-radius: 10px;
+}
+.card{
+    width: 18rem;
+}
+.review-container{
+    width: 1000px;
+}
+footer{
+    background-color: rgb(99, 169, 169);
+}
+.detail-container{
+    display: flex;
+    padding: 40px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.detail-doc-img{
+    border-radius: 50%;
+    height: 250px;
+    width: 100%;
+}
+.input{
+    border: none;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 5px;
+    width: 300px;
+}
+.butn{
+    background-color: rgb(64, 110, 110);
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+}
+
+.user-img{
+    border-radius: 50%;
+    height: 400px;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.fees-container{
+    width: 100px;
+    outline: 2px solid black;
+}
+.pdf-detail-card{
+    outline: 1px solid black;
+}
